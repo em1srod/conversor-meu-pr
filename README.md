@@ -15,4 +15,4 @@ Projeto simples de conversão de cargas entre kg e libras, criado para facilitar
 
 ## 👤 Autora
 Emilly Rodrigues  
-[LinkedIn](https://www.linkedin.com/in/emilly-rodrigues-po/)
+[LinkedIn](https://www.linkedin.com/in/emilly-rodrigues-qa/)
